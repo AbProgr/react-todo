@@ -1,0 +1,15 @@
+{
+  "name": "client-server",
+  "version": "1.0.0",
+  "description": "to serve react app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijeet",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.2",
+    "inert": "^5.1.0"
+  }
+}
